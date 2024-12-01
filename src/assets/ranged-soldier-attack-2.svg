@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30" height="50" viewBox="0 0 30 50" xmlns="http://www.w3.org/2000/svg">
+    <!-- Head -->
+    <circle cx="15" cy="10" r="8" fill="white"/>
+    <!-- Body -->
+    <rect x="10" y="18" width="10" height="20" fill="white"/>
+    <!-- Arms holding gun (recoil position) -->
+    <rect x="13" y="22" width="8" height="4" fill="white"/>
+    <!-- Gun (slight recoil) -->
+    <rect x="18" y="25" width="15" height="4" fill="white"/>
+    <!-- Legs in shooting stance -->
+    <rect x="8" y="38" width="6" height="12" fill="white" transform="rotate(-5 8 38)"/>
+    <rect x="16" y="38" width="6" height="12" fill="white" transform="rotate(5 16 38)"/>
+</svg> 

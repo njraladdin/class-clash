@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150" height="150" viewBox="0 0 150 150" xmlns="http://www.w3.org/2000/svg">
+    <!-- Main castle body -->
+    <rect x="30" y="60" width="90" height="90" fill="#666"/>
+    
+    <!-- Battlements -->
+    <rect x="22" y="45" width="105" height="22" fill="#888"/>
+    <rect x="30" y="45" width="15" height="30" fill="#666"/>
+    <rect x="60" y="45" width="15" height="30" fill="#666"/>
+    <rect x="90" y="45" width="15" height="30" fill="#666"/>
+    
+    <!-- Main door -->
+    <path d="M67 120 L67 150 L82 150 L82 120 Q75 105 67 120" fill="#442211"/>
+    
+    <!-- Windows -->
+    <rect x="45" y="75" width="15" height="22" fill="#333"/>
+    <rect x="90" y="75" width="15" height="22" fill="#333"/>
+    
+    <!-- Main tower -->
+    <rect x="60" y="15" width="30" height="52" fill="#666"/>
+    <polygon points="52,15 75,0 98,15" fill="#888"/>
+</svg> 

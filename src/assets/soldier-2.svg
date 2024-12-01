@@ -1,0 +1,8 @@
+<svg width="30" height="50" viewBox="0 0 30 50" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="15" cy="10" r="8" fill="white"/>
+    <rect x="10" y="18" width="10" height="20" fill="white"/>
+    <!-- Left leg back -->
+    <rect x="8" y="38" width="6" height="12" fill="white" transform="rotate(15 8 38)"/>
+    <!-- Right leg forward -->
+    <rect x="16" y="38" width="6" height="12" fill="white" transform="rotate(-15 16 38)"/>
+</svg> 
